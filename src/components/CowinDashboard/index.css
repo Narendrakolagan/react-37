@@ -1,0 +1,27 @@
+.bg-container {
+  background-color: #161625;
+  background-size: cover;
+}
+
+.website-logo {
+  height: 30px;
+  width: 30px;
+}
+.website-heading {
+  font-size: 17px;
+  color: #2cc6c6;
+  margin-left: 20px;
+}
+.website-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.co-heading {
+  color: white;
+  font-size: 20px;
+}
+.failure-view {
+  height: 300px;
+  width: 300px;
+}
